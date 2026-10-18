@@ -1,0 +1,4 @@
+interface:
+  display_name: "轻量头脑风暴"
+  short_description: "对齐新项目需求并写成简明文档，确认后结束，不附带重型开发流程"
+  default_prompt: "使用 $brainstorm-lite 帮我梳理项目需求，输出简明需求文档，后续按普通方式开发。"
